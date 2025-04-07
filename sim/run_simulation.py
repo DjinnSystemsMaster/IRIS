@@ -1,3 +1,4 @@
+"""Simulates agent behavior under periodic entropy injection."""
 import numpy as np
 from model.recursive_agent import RecursiveAgent
 from metrics.coherence import compute_coherence
