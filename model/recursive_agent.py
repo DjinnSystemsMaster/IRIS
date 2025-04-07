@@ -1,3 +1,4 @@
+"""Defines the Recursive Freeze-Lock agent architecture."""
 class RecursiveAgent:
     def __init__(self, freeze_threshold):
         self.state = None
