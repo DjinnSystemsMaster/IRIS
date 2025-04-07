@@ -1,0 +1,11 @@
+Copyright (c) 2025 Brian Sullivan, Djinn Systems LLC
+
+All rights reserved.
+
+This repository contains research code, theoretical models, and documentation pertaining to the Sullivan Channel architecture. The Sullivan Channel, including Recursive Freeze-Lock and coherence-centric recursion, is proprietary intellectual property of Brian Sullivan and Djinn Systems LLC.
+
+Permission is granted to view this code for non-commercial academic use and peer review purposes only.
+
+No license is granted for reproduction, modification, distribution, commercial use, or derivative works without prior written permission from Djinn Systems LLC.
+
+For licensing inquiries, contact: bsullivan0069@gmail.com
