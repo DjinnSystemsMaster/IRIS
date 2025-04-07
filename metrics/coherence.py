@@ -1,3 +1,4 @@
+"""Computes cosine similarity Λ(S) between successive agent states."""
 import numpy as np
 
 def compute_coherence(state_history):
